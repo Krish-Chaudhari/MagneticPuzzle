@@ -15,4 +15,5 @@ Each implementation reads board orientation and constraint inputs, processes the
 
 ## 🧪 Language Implementations
 
-### 1️⃣ Elixir
+### Elixir
+### Haskell
